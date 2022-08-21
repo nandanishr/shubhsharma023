@@ -1,8 +1,53 @@
 
-# Hi<img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Shubhankar Sharma
+# Hi<img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm Nandani Shree
 ## 🤓 About Me :
-- A sophomore in Computer Science department at Thapar Institute of Engineering and Technology.
-- Technology Enthusiast.
+- second year Statistics majors student at Kishinchand Chellaram College, Mumbai.
+
+
+
+<!--
+## ⚠️Kindly go through the links given to the "Links to my recent works" section to look my recent works. My repos are private of these links.⚠️
+**shubhsharma023/shubhsharma023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📝 My Blogs :
 - [Servo Motors : A beginner's guide to Servo Motors](https://botpad.hashnode.dev/servo-motors)
@@ -42,18 +87,4 @@
 
 
 
-<!--
-## ⚠️Kindly go through the links given to the "Links to my recent works" section to look my recent works. My repos are private of these links.⚠️
-**shubhsharma023/shubhsharma023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
